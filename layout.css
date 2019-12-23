@@ -1,0 +1,25 @@
+
+#header {
+    color: darkblue;
+    font-weight: bold;
+    font-size: 100px;
+    font-family: "Comic Sans MS";
+    font-variant: none;
+    background-color: chartreuse;
+    word-spacing: 5px;
+    text-align: center;
+}
+#home {
+    font-family: cursive;
+    font-size: larger;
+    font-weight: bold;
+    text-align: center;
+
+}
+#profiles {
+    font-family: cursive;
+    font-size: larger;
+    font-weight: bold;
+    text-align: center;
+    place-self: center;
+}
